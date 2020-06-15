@@ -1,3 +1,17 @@
+.vscode/
+env/
+temp/
+dataset/
+output/
+*.png
+*.jpg
+*.zip
+*.pdf
+*.PDF
+output.txt
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
