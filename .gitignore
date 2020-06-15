@@ -2,6 +2,7 @@
 env/
 temp/
 dataset/
+models/
 output/
 *.png
 *.jpg

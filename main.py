@@ -83,6 +83,7 @@ def read_pdf_file(file_name='test.pdf'):
             print(f'LINE {count}')
         output += '\n'*10
 
+    # TODO: add natural language processing
     with open("output.txt", "a") as f:
         f.write(output)
     
